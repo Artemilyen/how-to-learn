@@ -16,6 +16,7 @@
 }
 
 .logo{
+  background-image: url(../images/logo_place_header.svg);
   width: 228px;
   height: 32px;
 }
@@ -148,6 +149,7 @@
 }
 
 .table__cell{
+  list-style: none;
   width: 250px;
   margin-top: 60px;
 }
