@@ -28,6 +28,7 @@
 }
 
 .header__title{
+  margin: 0;
   width: 730px;
   align-self: center;
   margin-left: 64px;
@@ -38,6 +39,7 @@
 }
 
 .header__subtitle{
+  margin: 0;
   position: absolute;
   left: 64px;
   bottom: 30px;
@@ -93,6 +95,7 @@
 }
 
 .two-columns__main-text{
+  margin: 0;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -100,6 +103,7 @@
 }
 
 .two-columns__paragraph{
+  margin: 0;
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
@@ -129,6 +133,7 @@
 }
 
 .section-subtitle{
+  margin: 0;
   width: 60%;
   margin:auto;
   line-height: 34px;
@@ -149,12 +154,14 @@
 }
 
 .table__cell{
+  margin: 0;
   list-style: none;
   width: 250px;
   margin-top: 60px;
 }
 
 .table__heading{
+  margin: 0;
   line-height: 1.15;
   font-size: 24px;
   font-weight: 700;
@@ -162,6 +169,7 @@
 }
 
 .table__text{
+  margin: 0;
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
@@ -181,6 +189,7 @@
 }
 
 .feynman__title{
+  margin: 0;
   line-height: 1.15;
   font-size: 120px;
   font-weight: 700;
@@ -190,6 +199,7 @@
 }
 
 .feynman__subtitle{
+  margin: 0;
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
