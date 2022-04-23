@@ -1,0 +1,5 @@
+@keyframes rotation-header {
+  to {
+    transform: rotate(360deg);
+  }
+}
